@@ -6,3 +6,4 @@
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spacecowb0y&theme=default)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default) 
