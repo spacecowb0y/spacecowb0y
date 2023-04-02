@@ -4,7 +4,7 @@ I'm Software Engineer with over 15 years of industry experience, including hands
 
 **What am I doing right now?** 
 
-I'm currently building decentralized applications on Tezos ꜩ.
+I'm currently looking for a job in Germany.
 
 **Where you can find me?**
 
