@@ -8,4 +8,4 @@ I'm currently looking for a job in Germany.
 
 **Where you can find me?**
 
-<a rel="me nofollow" href="https://0xff.social/@diego">Mastodon</a> / <a href="https://www.goodreads.com/user/show/46795449-diego-peralta">Goodreads</a> / <a href="https://ar.linkedin.com/in/dperalta">LinkedIn</a>.
+<a href="https://www.last.fm/user/diego_ar">Last.fm</a> / <a href="https://www.goodreads.com/user/show/46795449-diego-peralta">Goodreads</a> / <a href="https://ar.linkedin.com/in/dperalta">LinkedIn</a>.
